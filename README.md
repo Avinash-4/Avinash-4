@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Avinash-4
-- 😄 A software engineer
+- 📚 A software engineer Constantly learning and evolving in the tech world.
 - 👀 I’m interested in developement
-- 💞️ I’m looking to collaborate on web development
+- 🔍 Bug Hunter | 🖥️ Software Engineer by day, bug exterminator by night.
+- 🌟 Passionate about creating clean, efficient, and maintainable code.
+- 🚀 Innovator | Full-Stack Developer with a love for all things tech.
 
 
 <!---
